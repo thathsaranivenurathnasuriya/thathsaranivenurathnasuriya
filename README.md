@@ -20,7 +20,7 @@
 
 ```css
 .designer {
-  name: "Your Girlfriend's Name";
+  name: "Thathsarani venura thnasuriya";
   role: "UI/UX Designer";
   location: "Sri Lanka 🇱🇰";
   passion: "Creating meaningful user experiences";
