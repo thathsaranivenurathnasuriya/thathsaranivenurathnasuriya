@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-girlfriend-username&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your-girlfriend-username?label=Followers&style=for-the-badge&color=9c88ff&labelColor=302D41" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/your-girlfriend-username?label=Stars&style=for-the-badge&color=f9e2af&labelColor=302D41" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=thathsaranivenurathnasuriya&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/thathsaranivenurathnasuriya?label=Followers&style=for-the-badge&color=9c88ff&labelColor=302D41" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/thathsaranivenurathnasuriya?label=Stars&style=for-the-badge&color=f9e2af&labelColor=302D41" alt="Stars" />
 </div>
 
 ---
@@ -181,30 +181,30 @@ graph LR
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-girlfriend-username&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-girlfriend-username&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thathsaranivenurathnasuriya&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thathsaranivenurathnasuriya&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-girlfriend-username&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=thathsaranivenurathnasuriya&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-girlfriend-username&theme=material-palenight&hide_border=true&bg_color=292D3E&color=C792EA&line=82AAFF&point=FFCB6B" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thathsaranivenurathnasuriya&theme=material-palenight&hide_border=true&bg_color=292D3E&color=C792EA&line=82AAFF&point=FFCB6B" />
 </div>
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-girlfriend-username&theme=material-palenight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thathsaranivenurathnasuriya&theme=material-palenight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" />
 </div>
 
 ## 🎨 Featured Design Projects
 
 <div align="center">
 
-[![Design Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=your-girlfriend-username&repo=design-portfolio&theme=material-palenight&hide_border=true)](https://github.com/your-girlfriend-username/design-portfolio)
-[![UI Components](https://github-readme-stats.vercel.app/api/pin/?username=your-girlfriend-username&repo=ui-components&theme=material-palenight&hide_border=true)](https://github.com/your-girlfriend-username/ui-components)
+[![Design Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thathsaranivenurathnasuriya&repo=design-portfolio&theme=material-palenight&hide_border=true)](https://github.com/thathsaranivenurathnasuriya/design-portfolio)
+[![UI Components](https://github-readme-stats.vercel.app/api/pin/?username=thathsaranivenurathnasuriya&repo=ui-components&theme=material-palenight&hide_border=true)](https://github.com/thathsaranivenurathnasuriya/ui-components)
 
 </div>
 
@@ -229,7 +229,7 @@ graph LR
 ## 📈 Design Metrics
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-girlfriend-username&theme=material-palenight&hide_border=true&custom_title=Design%20Activity%20Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=thathsaranivenurathnasuriya&theme=material-palenight&hide_border=true&custom_title=Design%20Activity%20Graph" />
 </div>
 
 ## 💫 Design Philosophy
